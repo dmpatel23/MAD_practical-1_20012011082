@@ -38,4 +38,3 @@ fun main() {
     println("\nComplete Car Info:")
     car.displayCarInfo()
 }
-
